@@ -1,5 +1,7 @@
 # PetClinic CI
 
+[![Build Status](https://travis-ci.com/stefanjung/Petclinic-CI-.svg?branch=master)](https://travis-ci.com/stefanjung/Petclinic-CI-)
+
 
 // Insert URL to status image here.
 
